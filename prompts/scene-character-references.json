@@ -40,6 +40,19 @@
       ],
       "negativePrompt": "No backpack rig, no back-mounted machine, no extra mechanical arms, no exoskeleton, no visible cable bundle, no sci-fi harness, no drone attachment."
     },
+    "scene-001-002-002-sera": {
+      "focusCharacterIds": [
+        "sera"
+      ],
+      "continuityNotes": [
+        "Sera must be the clear foreground subject of the image.",
+        "Do not show any restrained, injured, collapsed, seated, or captured person who resembles Sato.",
+        "Any attackers must be visually distinct from Sato: no ponytail, no mustache, no chin beard, no chambray shirt, no denim outfit matching Sato, and no similar face or body impression.",
+        "If Sato appears at all, show only one Sato as a small unaware background figure separated from the confrontation."
+      ],
+      "negativePrompt": "No duplicate Sato, no second Sato-like man, no ponytail attacker, no mustached attacker, no bearded attacker matching Sato, no captured Sato, no injured Sato, no collapsed Sato, no seated Sato near Sera, no Sato lookalike enemy, no twin-like face, no matching denim outfit on attackers.",
+      "promptSuffix": "Make Sera the unmistakable visual protagonist. Attackers must read as unrelated men, not as Sato or copies of Sato."
+    },
     "scene-002-002-002-sera": {
       "focusCharacterIds": [
         "sera"
